@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Frontend/ForexBroker/bin/Debug
+/Frontend/ForexBroker/obj/Debug
+/Frontend/ForexBroker.Tests/obj/Debug
+/Frontend/.vs/Frontend/v16/TestStore/0
+/Frontend/ForexBroker.Tests/bin/Debug
+/Frontend/packages
